@@ -1,0 +1,1 @@
+clang -std=c23 -O2 -march=native -pedantic -Wall -Wextra -I third_party_libs/ -I include/ source/*.c -o bfic
